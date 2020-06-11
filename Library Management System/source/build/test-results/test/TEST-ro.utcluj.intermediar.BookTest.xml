@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ro.utcluj.intermediar.BookTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2020-06-01T07:11:35" hostname="DESKTOP-TULJHPP" time="0.033">
+  <properties/>
+  <testcase name="addWait()" classname="ro.utcluj.intermediar.BookTest" time="0.001"/>
+  <testcase name="getInAsteptare()" classname="ro.utcluj.intermediar.BookTest" time="0.001"/>
+  <testcase name="setAuthor()" classname="ro.utcluj.intermediar.BookTest" time="0.003"/>
+  <testcase name="getAuthor()" classname="ro.utcluj.intermediar.BookTest" time="0.003"/>
+  <testcase name="setRating()" classname="ro.utcluj.intermediar.BookTest" time="0.0"/>
+  <testcase name="setReview()" classname="ro.utcluj.intermediar.BookTest" time="0.0"/>
+  <testcase name="setQuantity()" classname="ro.utcluj.intermediar.BookTest" time="0.0"/>
+  <testcase name="getRating()" classname="ro.utcluj.intermediar.BookTest" time="0.001"/>
+  <testcase name="getReview()" classname="ro.utcluj.intermediar.BookTest" time="0.0"/>
+  <testcase name="getQuantity()" classname="ro.utcluj.intermediar.BookTest" time="0.001"/>
+  <testcase name="removeWait()" classname="ro.utcluj.intermediar.BookTest" time="0.001"/>
+  <testcase name="setGenre()" classname="ro.utcluj.intermediar.BookTest" time="0.001"/>
+  <testcase name="setTitle()" classname="ro.utcluj.intermediar.BookTest" time="0.0"/>
+  <testcase name="notifyAvb()" classname="ro.utcluj.intermediar.BookTest" time="0.001"/>
+  <testcase name="setInAsteptare()" classname="ro.utcluj.intermediar.BookTest" time="0.001"/>
+  <testcase name="getGenre()" classname="ro.utcluj.intermediar.BookTest" time="0.001"/>
+  <testcase name="getTitle()" classname="ro.utcluj.intermediar.BookTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

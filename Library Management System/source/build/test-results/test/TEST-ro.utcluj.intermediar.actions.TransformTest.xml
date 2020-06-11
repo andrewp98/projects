@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ro.utcluj.intermediar.actions.TransformTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-06-01T07:11:35" hostname="DESKTOP-TULJHPP" time="0.01">
+  <properties/>
+  <testcase name="serialize()" classname="ro.utcluj.intermediar.actions.TransformTest" time="0.006"/>
+  <testcase name="desReqM()" classname="ro.utcluj.intermediar.actions.TransformTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

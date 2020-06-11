@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ro.utcluj.VCTests.LoginControllerTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-06-01T07:11:36" hostname="DESKTOP-TULJHPP" time="0.091">
+  <properties/>
+  <testcase name="givenAdminUsernameAndPassword_login_showAdminView()" classname="ro.utcluj.VCTests.LoginControllerTests" time="0.077"/>
+  <testcase name="givenInvalidUsernameAndPassword_login_showErrorMessage2()" classname="ro.utcluj.VCTests.LoginControllerTests" time="0.004"/>
+  <testcase name="givenRegularUsernameAndPassword_login_showRegularView()" classname="ro.utcluj.VCTests.LoginControllerTests" time="0.003"/>
+  <testcase name="givenInvalidUsernameAndPassword_login_showErrorMessage()" classname="ro.utcluj.VCTests.LoginControllerTests" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

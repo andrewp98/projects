@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ro.utcluj.intermediar.RequestMessageTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-06-01T07:11:35" hostname="DESKTOP-TULJHPP" time="0.008">
+  <properties/>
+  <testcase name="getModelName()" classname="ro.utcluj.intermediar.RequestMessageTest" time="0.001"/>
+  <testcase name="setRequestName()" classname="ro.utcluj.intermediar.RequestMessageTest" time="0.001"/>
+  <testcase name="setModelName()" classname="ro.utcluj.intermediar.RequestMessageTest" time="0.001"/>
+  <testcase name="getArgs()" classname="ro.utcluj.intermediar.RequestMessageTest" time="0.002"/>
+  <testcase name="getRequestName()" classname="ro.utcluj.intermediar.RequestMessageTest" time="0.001"/>
+  <testcase name="setArgs()" classname="ro.utcluj.intermediar.RequestMessageTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

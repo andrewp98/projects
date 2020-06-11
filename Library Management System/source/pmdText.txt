@@ -1,0 +1,1 @@
+pmd.bat -d "C:\Users\Drew P\Desktop\School\Sem2\PS\Proiect\2020-302310-andrewp98\project\source" -f html -R rulesets/java/quickstart.xml,category/java/bestpractices.xml > report.html

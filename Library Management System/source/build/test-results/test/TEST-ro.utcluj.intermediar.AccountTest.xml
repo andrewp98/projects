@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ro.utcluj.intermediar.AccountTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2020-06-01T07:11:35" hostname="DESKTOP-TULJHPP" time="0.026">
+  <properties/>
+  <testcase name="setPenalty()" classname="ro.utcluj.intermediar.AccountTest" time="0.008"/>
+  <testcase name="setSubscription()" classname="ro.utcluj.intermediar.AccountTest" time="0.0"/>
+  <testcase name="getIsAdmin()" classname="ro.utcluj.intermediar.AccountTest" time="0.003"/>
+  <testcase name="setPassword()" classname="ro.utcluj.intermediar.AccountTest" time="0.001"/>
+  <testcase name="getPassword()" classname="ro.utcluj.intermediar.AccountTest" time="0.001"/>
+  <testcase name="getFavourites()" classname="ro.utcluj.intermediar.AccountTest" time="0.002"/>
+  <testcase name="getPenalty()" classname="ro.utcluj.intermediar.AccountTest" time="0.0"/>
+  <testcase name="setIsAdmin()" classname="ro.utcluj.intermediar.AccountTest" time="0.0"/>
+  <testcase name="setFavourites()" classname="ro.utcluj.intermediar.AccountTest" time="0.0"/>
+  <testcase name="setUserName()" classname="ro.utcluj.intermediar.AccountTest" time="0.0"/>
+  <testcase name="getUserName()" classname="ro.utcluj.intermediar.AccountTest" time="0.0"/>
+  <testcase name="getSubscription()" classname="ro.utcluj.intermediar.AccountTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

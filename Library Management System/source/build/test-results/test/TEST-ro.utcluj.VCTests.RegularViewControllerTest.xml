@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ro.utcluj.VCTests.RegularViewControllerTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2020-06-01T07:11:36" hostname="DESKTOP-TULJHPP" time="0.26">
+  <properties/>
+  <testcase name="returnBooks()" classname="ro.utcluj.VCTests.RegularViewControllerTest" time="0.176"/>
+  <testcase name="returnBookAccounts()" classname="ro.utcluj.VCTests.RegularViewControllerTest" time="0.001"/>
+  <testcase name="addToFav_AlreadyCase()" classname="ro.utcluj.VCTests.RegularViewControllerTest" time="0.004"/>
+  <testcase name="searchByAuthor()" classname="ro.utcluj.VCTests.RegularViewControllerTest" time="0.001"/>
+  <testcase name="borrowBook_BorrowLimitCase()" classname="ro.utcluj.VCTests.RegularViewControllerTest" time="0.005"/>
+  <testcase name="borrowBook_NoSuchBookCase()" classname="ro.utcluj.VCTests.RegularViewControllerTest" time="0.003"/>
+  <testcase name="borrowBook_WorngDateCase()" classname="ro.utcluj.VCTests.RegularViewControllerTest" time="0.004"/>
+  <testcase name="returnFav()" classname="ro.utcluj.VCTests.RegularViewControllerTest" time="0.003"/>
+  <testcase name="revBook_PerfectCase()" classname="ro.utcluj.VCTests.RegularViewControllerTest" time="0.004"/>
+  <testcase name="borrowBook_PerfectCase()" classname="ro.utcluj.VCTests.RegularViewControllerTest" time="0.008"/>
+  <testcase name="borrowBook_LockedCase()" classname="ro.utcluj.VCTests.RegularViewControllerTest" time="0.008"/>
+  <testcase name="returnBook_PentaltyCase()" classname="ro.utcluj.VCTests.RegularViewControllerTest" time="0.007"/>
+  <testcase name="addToFav_PerfectCase()" classname="ro.utcluj.VCTests.RegularViewControllerTest" time="0.005"/>
+  <testcase name="addToFav_NullCase()" classname="ro.utcluj.VCTests.RegularViewControllerTest" time="0.003"/>
+  <testcase name="returnBookAccountsByID()" classname="ro.utcluj.VCTests.RegularViewControllerTest" time="0.002"/>
+  <testcase name="returnBook()" classname="ro.utcluj.VCTests.RegularViewControllerTest" time="0.009"/>
+  <testcase name="searchByGenre()" classname="ro.utcluj.VCTests.RegularViewControllerTest" time="0.002"/>
+  <testcase name="searchByTitle()" classname="ro.utcluj.VCTests.RegularViewControllerTest" time="0.002"/>
+  <testcase name="rateBook_PerfectCase()" classname="ro.utcluj.VCTests.RegularViewControllerTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

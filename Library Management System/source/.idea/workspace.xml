@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="056df3fb-db08-49b3-b9d0-68e5d7877e28" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/database.db" beforeDir="false" afterPath="$PROJECT_DIR$/database.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/utcluj/client/RegularVCRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/utcluj/client/RegularVCRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/utcluj/client/RegularViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/utcluj/client/RegularViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/utcluj/server/QuerryRVC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/utcluj/server/QuerryRVC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/utcluj/server/RequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/utcluj/server/RequestHandler.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="107" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="hibernate-starter" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1Zq4oHmItMEDcpFGFyOFBQsE3L7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ro.utcluj.client" />
+      <recent name="ro.utcluj.server" />
+      <recent name="ro.utcluj.intermediar" />
+      <recent name="ro.utcluj.intermediar.actions" />
+      <recent name="ro.utcluj" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Tests in 'hibernate-starter.test'">
+    <configuration name="ClientConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.utcluj.client.ClientConnection" />
+      <module name="hibernate-starter.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.utcluj.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.utcluj.server.Server" />
+      <module name="hibernate-starter.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.utcluj.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.utcluj.client.Server" />
+      <module name="hibernate-starter.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.utcluj.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegularViewControllerTest.returnBook_PentaltyCase" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ro.utcluj.VCTests.RegularViewControllerTest.returnBook_PentaltyCase&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'hibernate-starter.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Tests in 'hibernate-starter.test'" />
+        <item itemvalue="Gradle.RegularViewControllerTest.returnBook_PentaltyCase" />
+        <item itemvalue="Application.Server (1)" />
+        <item itemvalue="Application.ClientConnection" />
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Drew P\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="056df3fb-db08-49b3-b9d0-68e5d7877e28" name="Default Changelist" comment="" />
+      <created>1585553463963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585553463963</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Factory Method added">
+      <created>1587814719259</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587814719260</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Add BookAccount" />
+    <MESSAGE value="Factory Method added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Factory Method added" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="79" key="#File_and_Code_Templates" timestamp="1590492749545">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="76" key="#File_and_Code_Templates/0.0.1536.834@0.0.1536.834" timestamp="1587917222969" />
+    <state x="361" y="79" key="#File_and_Code_Templates/0.0.1536.864@0.0.1536.864" timestamp="1590492749545" />
+    <state x="361" y="91" key="#Notifications" timestamp="1590992807605">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1590992807605" />
+    <state x="520" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589051842744">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="520" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1589051842744" />
+    <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1590509028105">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1589144048992" />
+    <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1590509028105" />
+    <state x="566" y="277" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586716918060">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="566" y="277" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834@0.0.1536.834" timestamp="1586716918060" />
+    <state x="482" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588763606644">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="482" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834@0.0.1536.834" timestamp="1588763606644" />
+    <state x="499" y="170" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589913579093">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1588881040088" />
+    <state x="499" y="170" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1589913579093" />
+    <state x="516" y="270" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1590673290259">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="516" y="270" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.864@0.0.1536.864" timestamp="1590673290259" />
+    <state x="252" y="12" key="CommitChangelistDialog2" timestamp="1587814718691">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="252" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1587814718691" />
+    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog" timestamp="1590674000817">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1590674000817" />
+    <state x="549" y="159" key="FileChooserDialogImpl" timestamp="1587846108813">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="159" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1587846108813" />
+    <state width="1493" height="233" key="GridCell.Tab.0.bottom" timestamp="1590995603003">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="171" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589204161706" />
+    <state width="1493" height="233" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590995603003" />
+    <state width="1493" height="233" key="GridCell.Tab.0.center" timestamp="1590995603003">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="171" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589204161706" />
+    <state width="1493" height="233" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1590995603003" />
+    <state width="1493" height="233" key="GridCell.Tab.0.left" timestamp="1590995603003">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="171" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589204161706" />
+    <state width="1493" height="233" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1590995603003" />
+    <state width="1493" height="233" key="GridCell.Tab.0.right" timestamp="1590995603003">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="171" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589204161706" />
+    <state width="1493" height="233" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1590995603003" />
+    <state width="1493" height="178" key="GridCell.Tab.1.bottom" timestamp="1590673617323">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="171" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589204161707" />
+    <state width="1493" height="178" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590673617323" />
+    <state width="1493" height="178" key="GridCell.Tab.1.center" timestamp="1590673617323">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="171" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1589204161707" />
+    <state width="1493" height="178" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1590673617323" />
+    <state width="1493" height="178" key="GridCell.Tab.1.left" timestamp="1590673617323">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="171" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1589204161706" />
+    <state width="1493" height="178" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1590673617323" />
+    <state width="1493" height="178" key="GridCell.Tab.1.right" timestamp="1590673617323">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="171" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1589204161707" />
+    <state width="1493" height="178" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1590673617323" />
+    <state x="264" y="116" key="SettingsEditor" timestamp="1590492857012">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1589178596524" />
+    <state x="264" y="116" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1590492857012" />
+    <state x="405" y="32" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588970565880">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="405" y="32" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1588970565880" />
+    <state x="578" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587732196343">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="578" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1587732196343" />
+    <state x="540" y="141" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1590500133781">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="540" y="136" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.834@0.0.1536.834" timestamp="1587919226669" />
+    <state x="540" y="141" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1590500133781" />
+    <state x="345" y="168" width="846" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1590673574496">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="345" y="168" width="846" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.864@0.0.1536.864" timestamp="1590673574496" />
+    <state x="209" y="38" key="new project wizard" timestamp="1589204553024">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="38" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1589204553024" />
+    <state x="511" y="37" key="refactoring.ChangeSignatureDialog" timestamp="1590427035606">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="511" y="36" key="refactoring.ChangeSignatureDialog/0.0.1536.834@0.0.1536.834" timestamp="1588085200037" />
+    <state x="511" y="37" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1590427035606" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1588867300473">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1588867300473" />
+    <state x="431" y="161" width="672" height="703" key="search.everywhere.popup" timestamp="1590442920163">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1587821911726" />
+    <state x="431" y="161" width="672" height="703" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1590442920163" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/hibernate_starter$RequestMessageTest.ic" NAME="RequestMessageTest Coverage Results" MODIFIED="1590497343873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hibernate_starter$Tests_in__hibernate_starter_test_.ic" NAME="Tests in 'hibernate-starter.test' Coverage Results" MODIFIED="1590995493247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hibernate_starter$RegularViewControllerTest_returnFav.ic" NAME="RegularViewControllerTest.returnFav Coverage Results" MODIFIED="1590484700449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hibernate_starter$BookTest.ic" NAME="BookTest Coverage Results" MODIFIED="1590496981105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hibernate_starter$BookAccountTest.ic" NAME="BookAccountTest Coverage Results" MODIFIED="1590499462176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hibernate_starter$RegularViewControllerTest.ic" NAME="RegularViewControllerTest Coverage Results" MODIFIED="1590513351458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hibernate_starter$AccountTest.ic" NAME="AccountTest Coverage Results" MODIFIED="1590495756810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hibernate_starter$TransformTest.ic" NAME="TransformTest Coverage Results" MODIFIED="1590498732418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hibernate_starter$ClientConnection.ic" NAME="ClientConnection Coverage Results" MODIFIED="1589027847733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ro.utcluj.client.view.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hibernate_starter$LoginControllerTests.ic" NAME="LoginControllerTests Coverage Results" MODIFIED="1590489552885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hibernate_starter$AdminViewControllerTest.ic" NAME="AdminViewControllerTest Coverage Results" MODIFIED="1590493380399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="regexState">
+    <option name="map">
+      <map>
+        <entry key="flags" value="0" />
+        <entry key="mode" value="0" />
+        <entry key="regex" value="(19||20)\d\d([- /.])(0[1-9]||1[012])\2(0[1-9]||[12][0-9]||3[01])" />
+        <entry key="text" value="1900-01-01 2007/08/13 1900.01.01 1900 01 01 1900-01.01 1900 13 01 1900 02 31" />
+      </map>
+    </option>
+  </component>
+</project>

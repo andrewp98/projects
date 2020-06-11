@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Uploader</title>
+</head>
+<body>
+    <form method="post" action="fileUpload.php">
+        <input type="button" id="btnFileUpload" value="Select File" />
+        <span id="spnFilePath"></span>
+        <input type="file" name="file" id="FileUpload1" style="display: none" />
+        <input type="submit" id="confirmUpload" value="Confirm" />
+        <script type="text/javascript">
+            window.onload = function () {
+                var fileupload = document.getElementById("FileUpload1");
+                var filePath = document.getElementById("spnFilePath");
+                var button = document.getElementById("btnFileUpload");
+                var buttonConf = document.getElementById("confirmUpload");
+                button.onclick = function () {
+                    fileupload.click();
+                };
+                buttonConf.onclick = function(){
+                    location.href = 'Aspect.html';
+                }
+                fileupload.onchange = function () {
+                    var fileName = fileupload.value.split('\\')[fileupload.value.split('\\').length - 1];
+                    filePath.innerHTML = "<b>Selected File: </b>" + fileName;
+                };
+            };
+        </script>
+    </form>
+
+</body>
+</html>
